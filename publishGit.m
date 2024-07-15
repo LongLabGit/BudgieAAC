@@ -2553,11 +2553,6 @@ for b = 1:4
     bgFreqDecode(b).rsquareBad = rsquareBad;
 end
 
-save('bgFreqDecode.mat', 'bgFreqDecode', 'unitsNum')
-
-load('bgFreqDecode.mat', 'bgFreqDecode', 'unitsNum')
-
-
 
 % plot decoding Rsquare summary
 pubFig([21, 0, 1.0, 1.78])
