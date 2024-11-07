@@ -20,7 +20,7 @@ All code was tested on Matlab 2023a running on Windows 10.
 1. Copy all code files into a local folder.
 2. Download the dataset from OSF and save it in the same folder.
 
-The file `publish.m` contains code to generate/reproduce figures and results in the manuscript. The total runtime will vary depending on your PC specifications, but it should benerally be within a couple of hours. 
+The file `publish.m` contains code to generate/reproduce figures and results in the manuscript. The total runtime will vary depending on your PC specifications, but it should benerally be within several hours. 
 
 To reduce processing time, computationally intensive processes (e.g., permutation analyses) have been commented out. If desired, these sections can be uncommented to rerun the corresponding analyses.
 
