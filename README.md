@@ -19,7 +19,7 @@ All code was tested on Matlab 2023a running on Windows 10.
 
 1. Copy all code files into a local folder.
 2. Download the dataset from OSF and save it in the same folder.
-3. Create a folder named `Paper` for saving figures.
+3. Create a subfolder named `Paper` for saving figures.
 
 The file `publish.m` contains code to generate/reproduce figures and results in the manuscript. The total runtime will vary depending on your PC specifications, but it should benerally be within several hours. 
 
