@@ -27,7 +27,7 @@ To reduce processing time, computationally intensive processes (e.g., permutatio
 
 ## Major code files description
 
-- `publish.m`: Generates figures and performs statistical tests and analysis steps not covered by other files. 
+- `publish.m`: Generates figures, performs statistical tests and analyses not covered by other files. 
 - `Fig1_step1_getData_bg.m` and `Fig1_step1_getData_zf.m`: Characterize neural responses to vocal and nonvocal conditions. 
 - `Fig2_step1_getData_bg.m` and `Fig2_step1_getData_zf.m`: Calculate neural responses to vocal segments used in similarity analyses.
 - `Fig2_step1_getData_getPiecewiseAnalysisData_BgAndZf.m`: Calculate neural and spectral similarity between vocal segments.
