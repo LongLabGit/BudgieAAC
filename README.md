@@ -54,7 +54,7 @@ Within each folder:
 Zebra finch data are stored in the `ZF` folder.
 
 ### Generated data files
-Below is a description of other major data files generated during the analysis:
+Below is a description of other major data files generated during the analysis process:
 
 - `bgResp.mat` and `zfResp.mat`: Contain characterization of basic neural responses, including firing rates to vocalization, baseline, playback.
 - `bgFrSpec.mat`,`zfFrSpec.mat`, and `bgzfpiecewisecorr_bgAllSy.mat`: Contain neural responses to vocal segments, as well as neural and spectral similarity measures for these segments.
