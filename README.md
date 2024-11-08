@@ -12,8 +12,9 @@ All code was tested on Matlab 2023a running on Windows 10.
 - DataViz: https://github.com/povilaskarvelis/DataViz
 - mseb: https://www.mathworks.com/matlabcentral/fileexchange/47950-mseb-x-y-errbar-lineprops-transparent
 - arrow: https://www.mathworks.com/matlabcentral/fileexchange/278-arrow
-- cumstom colormap: https://www.mathworks.com/matlabcentral/fileexchange/42450-custom-colormap
 - venn: https://www.mathworks.com/matlabcentral/fileexchange/22282-venn
+- cumstom colormap: https://www.mathworks.com/matlabcentral/fileexchange/42450-custom-colormap
+- rgb: https://www.mathworks.com/matlabcentral/fileexchange/24497-rgb-triple-of-color-name-version-2
 
 ## Instructions
 
