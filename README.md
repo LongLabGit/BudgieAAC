@@ -19,7 +19,7 @@ All code was tested on Matlab 2023a running on Windows 10.
 ## Instructions
 
 1. Copy all code files into a local folder.
-2. Download the dataset from Zenodo and unzip all files into the same folder as the code.
+2. Download the dataset from Zenodo ([access link](https://zenodo.org/records/14057061?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjY3ZjIzNmYzLWI2MjgtNDE2Ny1iMjBmLTY0ZGM3ZTViZDgzMSIsImRhdGEiOnt9LCJyYW5kb20iOiJmMTlhZWYyNmM4ZGI2MGI4YzBhMWVjNDZkNzE3NmI4NiJ9.XmkrafpKL-HPoE7MlbrAXkQAnEg-RxcidyRxLz2tCDuxHIqzWvhfrakQFVs3utQPgOKv83XD3USWRafU2MJtag)) and unzip all files into the same folder as the code.
 3. Create a subfolder named `Paper` for saving figures.
 4. Run `publish.m`.
 
